@@ -1,0 +1,7 @@
+3Test
+PhilTest
+3
+1 R 4 NATURAL false
+.5 G 4 NATURAL false
+.5 G 1 NATURAL false
+
